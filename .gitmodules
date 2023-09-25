@@ -1,4 +1,0 @@
-[submodule "Externals/DevExpress"]
-	path = Externals/DevExpress
-	url = https://github.com/devasenag/ParentModule.git
-	branch = Axis2
