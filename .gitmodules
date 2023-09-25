@@ -1,0 +1,4 @@
+[submodule "submodules/v19.0.1"]
+	path = submodules/v19.0.1
+	url = https://github.com/devasenag/ParentModule.git
+	branch = DevExpress
